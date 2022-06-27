@@ -6,7 +6,7 @@ This app does all the flipping on the server.
 
 ![gif of project] <br>
 
-<img src="https://github.com/deesclouds/flippity-flip/blob/main/assets/flippity-flip.gif" width="250" height="auto"/>
+<img src="https://github.com/deesclouds/flippity-flip/blob/main/assets/flippity-flip.gif" width="300" height="auto"/>
 
 ## How It's Made:
 
