@@ -32,6 +32,9 @@ h1{
   justify-content: center;
 
 }
+input{
+  text-align: center;
+}
 #sideOfCoin, #clickMe{
   margin: auto;
 }
